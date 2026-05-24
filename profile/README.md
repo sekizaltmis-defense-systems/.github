@@ -1,12 +1,11 @@
-## Hi there 👋
+# SEKIZALTMIS DEFENSE SYSTEM TEAM
 
-<!--
+> وَاَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ وَمِنْ رِبَاطِ الْخَيْلِ تُرْهِبُونَ بِه۪ عَدُوَّ اللّٰهِ وَعَدُوَّكُمْ وَاٰخَر۪ينَ مِنْ دُونِهِمْۚ لَا تَعْلَمُونَهُمْۚ اَللّٰهُ يَعْلَمُهُمْۜ وَمَا تُنْفِقُوا مِنْ شَيْءٍ ف۪ي سَب۪يلِ اللّٰهِ يُوَفَّ اِلَيْكُمْ وَاَنْتُمْ لَا تُظْلَمُونَ
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Enfal suresi 60. Ayet
+Ey mü’minler! Düşmanlarınıza karşı bütün imkânlarınızı seferber ederek kuvvet hazırlayın ve beslenmiş, eğitilmiş savaş atları yetiştirin. Böylece, Allah’ın düşmanlarını, sizin düşmanlarınızı ve bunların dışında sizin bilmediğiniz fakat Allah’ın bildiği diğer düşmanları korkutun. Allah yolunda ne harcarsanız karşılığı size tastamam ödenir ve hiçbir haksızlığa uğramazsınız.
+
+---
+
